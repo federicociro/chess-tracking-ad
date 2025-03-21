@@ -62,4 +62,4 @@ The app requires two SharePoint lists:
 
 ## Contact
 
-(me@federicociro.com)[mailto:me@federicociro.com]
+[me@federicociro.com](mailto:me@federicociro.com)
