@@ -58,7 +58,7 @@ The app requires two SharePoint lists:
 
 ## License
 
-[LICENSE]
+[LICENSE](./LICENSE)
 
 ## Contact
 
