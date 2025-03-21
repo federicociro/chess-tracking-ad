@@ -164,7 +164,7 @@ Navigate(HomeScreen, ScreenTransition.None);
 Notify("Match recorded successfully!", NotificationType.Success);
 ```
 
-### 3. MyMatchesScreen
+### 3. MyMatchesScreen (to do)
 
 **Purpose**: View user's match history
 **Controls**:
@@ -258,7 +258,7 @@ lblRecord.Text = ThisItem.Wins & "-" & ThisItem.Losses & "-" & ThisItem.Draws
 rectPlayerRow.Fill = If(PlayerID = User().Email, "#FFFDE7", If(CountRows(ThisItem) Mod 2 = 0, White, "#EFF7FF"))
 ```
 
-### 5. FindPlayersScreen
+### 5. FindPlayersScreen  (to do)
 
 **Purpose**: Search and challenge players
 **Controls**:
